@@ -15,7 +15,7 @@ github_user: "albertomoyano"
 linkedin: albertomoyano
 google-analytics: G-B24LS8J7J2
 logo: "assets/img/favicon.png"
-color: "#2F4F4F" # color de la cabecera
+color: "#DC143C" # color de la cabecera
 
 # Build settings
 markdown: kramdown
