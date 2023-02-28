@@ -1,0 +1,28 @@
+- title: "Acerca de..."
+  url: "acercade"
+#- title: "Capítulo 01"
+#  url: "docs/getting-started"
+#- title: "Capítulo 02"
+#  url: "docs/otra"
+#  children:
+#    - title: Ventajas
+#      url: "docs/getting-started#getting-started"
+#    - title: Desarrollo
+#      url: "docs/getting-started#development"
+#    - title: Customización
+#      url: "docs/getting-started#customization"
+# - title: "Extras"
+#   url: "docs/extras"
+#  children:
+#    - title: Quizzes
+#      url: "docs/extras/example-quiz"
+#    - title: Foro de debate
+#      url: "forum"
+#    - title: Interactive Code
+#      url: "docs/extras/interactive"
+- title: "Blog"
+  url: "blog"
+- title: "Producción de libros"
+  url: "libros"
+- title: "Mi CV"
+  url: "cv"
