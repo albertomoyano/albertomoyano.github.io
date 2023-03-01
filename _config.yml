@@ -1,5 +1,3 @@
-# Welcome to Jekyll!
-#
 title: Alberto Moyano
 email: alberto.alejandro.moyano@gmail.com
 author: Alberto Moyano
@@ -12,7 +10,7 @@ repo: "https://github.com/albertomoyano" # repositorio general del autor
 github_user: "albertomoyano"
 
 # Optional
-linkedin: albertomoyano
+linkedin: edicion-cientifica
 google-analytics: G-B24LS8J7J2
 logo: "assets/img/favicon.png"
 color: "#DC143C" # color de la cabecera
