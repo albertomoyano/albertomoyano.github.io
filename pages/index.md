@@ -12,10 +12,12 @@ Estoy convencido de que la producción editorial avanza inexorablemente hacia un
 
 ## Objetivos
 
-Me propongo dejar constancia con mi trabajo diario, de los cambios que se van dando en el proceso de edición, desde este lugar se va a poder observar diferentes modos de producción --y la realización genuina de trabajos-- de libros editados dentro de los cuatro modelos de producción que conviven, digamos que sin problemas ;)
+Me propongo dejar constancia con mi trabajo diario, de los cambios que se van dando en el proceso de edición, desde este lugar se podrán observar diferentes modos de producción --y la realización genuina de trabajos-- de libros editados en la vida real.
+
+De los modelos de producción que hoy conviven, digamos que sin problemas, veremos:
 
 1. edición tradicional (libro impreso);
-2. edición mixta (libro impreso y versión digital);
+2. edición doble (libro impreso y versión digital);
 3. edición en línea (libro electrónico);
-4. edición múltiple (diferentes libros electrónicos en múltiples repositorios combinados);
+4. edición múltiple (diferentes libros electrónicos en múltiples repositorios combinados).
 
