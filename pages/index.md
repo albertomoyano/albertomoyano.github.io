@@ -21,5 +21,5 @@ De los modelos de producción que hoy conviven, digamos que sin problemas, verem
 1. edición tradicional (libro impreso);
 2. edición doble (libro impreso y versión digital);
 3. edición en línea (libro electrónico);
-4. edición múltiple (diferentes libros electrónicos en múltiples repositorios combinados).
+4. edición diversificada (libros electrónicos en diferentes repositorios enlazados).
 
